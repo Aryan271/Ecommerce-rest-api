@@ -30,7 +30,7 @@ Only users registerd with role as "admin" can Create/Update/Delete Products.
 
 ## Download project
 ```bash
-git clone https://github.com/codersgyan/ecommerce-rest-apis-node.git
+git clone https://github.com/Aryan271/Ecommerce-rest-api.git
 ```
 
 ## Install Dependancies
